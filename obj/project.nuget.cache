@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RSKyE/jDj9sj+TMdx98QAakPewB6s5TyrhRZLRAMSfkCmptjGvsIC1487LRhpk6xJGn6gpDqKk4s+KIryotciA==",
+  "dgSpecHash": "K2y0CNrrj+JOwEBoYdyFVWFEHz2QD8ugwBUmr0IHs/mmx3xbgCbzAvZtE91vySlLKLfdMtbH2wxVsQjy+g5Mmg==",
   "success": true,
-  "projectFilePath": "D:\\Repos\\2813-main\\Demos\\06 - exercicios\\DependencyRoomBooking.csproj",
+  "projectFilePath": "D:\\Repos\\Curso balta\\2813-main\\Demos\\06 - exercicios\\DependencyRoomBooking.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ezequiel Mattos\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\Ezequiel Mattos\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

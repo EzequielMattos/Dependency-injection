@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\2813-main\\Demos\\06 - exercicios\\DependencyRoomBooking.csproj": {}
+    "D:\\Repos\\Curso balta\\2813-main\\Demos\\06 - exercicios\\DependencyRoomBooking.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\2813-main\\Demos\\06 - exercicios\\DependencyRoomBooking.csproj": {
+    "D:\\Repos\\Curso balta\\2813-main\\Demos\\06 - exercicios\\DependencyRoomBooking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\2813-main\\Demos\\06 - exercicios\\DependencyRoomBooking.csproj",
+        "projectUniqueName": "D:\\Repos\\Curso balta\\2813-main\\Demos\\06 - exercicios\\DependencyRoomBooking.csproj",
         "projectName": "DependencyRoomBooking",
-        "projectPath": "D:\\Repos\\2813-main\\Demos\\06 - exercicios\\DependencyRoomBooking.csproj",
+        "projectPath": "D:\\Repos\\Curso balta\\2813-main\\Demos\\06 - exercicios\\DependencyRoomBooking.csproj",
         "packagesPath": "C:\\Users\\Ezequiel Mattos\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\2813-main\\Demos\\06 - exercicios\\obj\\",
+        "outputPath": "D:\\Repos\\Curso balta\\2813-main\\Demos\\06 - exercicios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\SDK VISUAL\\NuGetPackages"
@@ -80,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
